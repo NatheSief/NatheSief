@@ -5,11 +5,11 @@
 
 
 # Actually working on :
-> C++ for 42 projects and also game-dev with VulkanAPI and OpenGL
-> The last 4 projects of 42 (CPP 05->09, IRC, Inception, Transcendance)
-> SysAdmin tools for my website + the production of my own server (tools as NGINX, monitoring tools (Grafana, Prometheus))
-> Discord bots to manage the server (IP adress analyses, setting up alerts)
-> Electronic projects as creating my own keyboard or KVM switch to enhance my setup.
+>-  C++ for 42 projects and also game-dev with VulkanAPI and OpenGL
+>-  The last 4 projects of 42 (CPP 05->09, IRC, Inception, Transcendance)
+>-  SysAdmin tools for my website + the production of my own server (tools as NGINX, monitoring tools (Grafana, Prometheus))
+>-  Discord bots to manage the server (IP adress analyses, setting up alerts)
+>- Electronic projects as creating my own keyboard or KVM switch to enhance my setup.
 
 <summary> <h2> Achievements at 42 : </h2> </summary>
 <li> 1st Circle :
@@ -28,7 +28,8 @@
 ---
 <details>
 <summary><h2> Actual Projects :</h2> </summary>
-  - 👨‍💻 [42_common_core](https://github.com/NateSief/42-paris.git)
+
+- 👨‍💻 [42_common_core](https://github.com/NateSief/42-paris.git)
     TECH USED :
 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </br>
@@ -86,7 +87,7 @@
 # Important repo : 
 ## 42-repos
 
-- 👨‍💻 [42 common core](https://github.com/NateSief/42-paris.git) </br>
+- 👨‍💻 [42 common core](https://github.com/NateSief/42-paris.git)
 
 ## Personals projects
 - 🚧 [Personnal website]() (construction zone there hehe)
