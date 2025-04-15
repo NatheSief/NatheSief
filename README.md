@@ -1,7 +1,7 @@
 <img src="./imgs/luffyg5.png" title="Banner">
 
 # Hi 👋, I'm Nathe
-> I'm a student at 42 paris since November 2023. I plan to specialize myself in the game-dev universe actually and I'm looking for an attendance in Netherlands.
+> I've been a student at 42 paris from November 2023 to April 2025. I plan to specialize myself in the game-dev universe actually and I'm currently lokking for some freelances missions in arious fields to expand my knowledges.
 
 
 # Actually working on :
@@ -34,13 +34,12 @@
 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </br>
 
-  Currect Advencment :
+  Current Advencment :
   - 1st circle : Done
   - 2nd circle : Done (just have to push Minitalk at 125 and repush Push_Swap to get 125)
   - 3rd circle : Done
   - 4st circle : NetPractice done, Cube3d Done, and CPP 00->05 done 
-  - 5st circle : Currently working on Inception and IRC, and finishing the 5 last CPP
-  - 6st circle : Wainting the end of the previous circle to do Transcendance 
+  - End of the cursus there
 
 
   Tools :
