@@ -16,6 +16,7 @@
 >-	Bio-electronic for medical uses
 >-	Electronic for hospitality
 
+<details>
 <summary> <h2> Achievements at 42 : (clic to develop)</h2> </summary>
 <li> 1st Circle :
 <img src="./badges/libftm.png"  title="Libft: 125/100" length="100" width="100"><img src="./badges/get_next_linee.png"  title="GNL: 100/100" length="100" width="100"><img src="./badges/ft_printfe.png"  title="Ft-printf: 100/100" length="100" width="100"><img src="./badges/born2beroote.png"  title="B2B: 110/100" length="100" width="100"> </br>
