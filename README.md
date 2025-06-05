@@ -22,20 +22,19 @@
 <img src="./badges/libftm.png"  title="Libft: 125/100" length="100" width="100"><img src="./badges/get_next_linee.png"  title="GNL: 100/100" length="100" width="100"><img src="./badges/ft_printfe.png"  title="Ft-printf: 100/100" length="100" width="100"><img src="./badges/born2beroote.png"  title="B2B: 110/100" length="100" width="100"> </br>
 <li>2nd Circle : <img src="./badges/push_swape.png"  title="Push-swap: 83/100" length="100" width="100"><img src="./badges/minitalkm.png"  title="Minitalk: 125/125" length="100" width="100"><img src="./badges/so_longe.png"  title="So-long : 100/100" length="100" width="100"> </br>
 <li>3rd Circle : <img src="./badges/minishellm.png"  title="Minishell : 101/100" length="100" width="100"><img src="./badges/philosopherse.png"  title="Philosophers : 100/100" length="100" width="100"> </br>
-<li>4th Circle : <img src="./badges/cub3de.png" title="Cub3d : 110/100" length="100" width="100"> <img src="./badges/netpracticem.png" title="Net Practice: 100/100" length="100" width="100"><img src="./badges/cppe.png" title="CPP : 5/5 Incoming" length="100" width="100">
-<li>5th Circle : <img src="./badges/cppn.png" title="CPP : 0/5 Incoming" length="100" width="100"><img src="./badges/ft_ircn.png" title="IRC : Incoming" length="100" width="100"><img src="./badges/inceptionn.png" title="Inception : Incoming" length="100" width="100">
-<li>6th Circle : <img src="./badges/ft_transcendencen.png" title="Transcendance : Incoming" length="100" width="100">
+<li>4th Circle : <img src="./badges/cub3de.png" title="Cub3d : 110/100" length="100" width="100"> <img src="./badges/netpracticem.png" title="Net Practice: 100/100" length="100" width="100"><img src="./badges/cppe.png" title="CPP : 5/5 - 80/100" length="100" width="100">
+
 </details>
 
 ---
-- 🌱 Learning **C, C++, JS, Python and PHP**
+- 🌱 Learning **C, C++, JS, Python**
 - 💬 Ask me about **how is 42**
 <!--- - 👨‍💻 All of my projects are available at [https://natesief.github.io/portfolio](https://natesief.github.io/portfolio) -->
 ---
 <details>
 <summary><h2> Actual Projects : (clic to develop)</h2> </summary>
 
-- 👾 [Magrathea](https://github.com/NateSief/Magrathea.git) (In the style of Terraria but not Terraria)
+- 👾 [Magrathea](https://github.com/Et1k/Magrathea.git) (In the style of Terraria but not Terraria)
      TECH USED :  
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </br>
   Actual advancment :
@@ -56,7 +55,7 @@
   - Make it run on my own game engine
   - Add a multi-player mode to let players have some game as a group.
 ---
-<li> 🚧 Personnal website </br>
+<li> 🚧 Personnal website : [nathe.me](https://nathe.me)</br>
     TECH USED : 
   <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" widht="40" height="40"> <!--- HTML5-->
   <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" widht="40" height="40"> <!--- CSS-->
@@ -66,7 +65,7 @@
 # Important repo : 
 
 ## Personals projects
-- 🚧 [Personnal website]() (construction zone there hehe)
+- 🚧 [Personnal website](nathe.me) (construction zone there hehe)
 - 👾 [2d Game ](https://github.com/NateSief/2d_game.git) (Actually working on it on local but soon I'll push things)
 
 # Languages and Tools:
