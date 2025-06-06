@@ -65,7 +65,7 @@
 # Important repo : 
 
 ## Personals projects
-- 🚧 [Personnal website](nathe.me) (construction zone there hehe)
+- 🚧 [Personnal website](https://nathe.me) (construction zone there hehe)
 - 👾 [2d Game ](https://github.com/NateSief/2d_game.git) (Actually working on it on local but soon I'll push things)
 
 # Languages and Tools:
